@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="360pt" height="144pt" viewBox="0 0 360 144" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-09-22T14:44:16.141782</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 144 
+L 360 144 
+L 360 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45 81.036 
+L 324 81.036 
+L 324 64.404 
+L 45 64.404 
+z
+" clip-path="url(#p98abf91981)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="PolyCollection_1">
+    <defs>
+     <path id="m233f78ac35" d="M 45 -78.793552 
+L 45 -79.596 
+L 54.62069 -79.596 
+L 64.241379 -79.596 
+L 73.862069 -79.596 
+L 83.482759 -79.596 
+L 93.103448 -79.596 
+L 102.724138 -79.596 
+L 112.344828 -79.596 
+L 121.965517 -79.596 
+L 131.586207 -79.596 
+L 141.206897 -79.596 
+L 150.827586 -79.596 
+L 160.448276 -79.596 
+L 170.068966 -79.596 
+L 179.689655 -79.596 
+L 189.310345 -79.596 
+L 198.931034 -79.596 
+L 208.551724 -79.596 
+L 218.172414 -79.596 
+L 227.793103 -79.596 
+L 237.413793 -79.596 
+L 247.034483 -79.596 
+L 256.655172 -79.596 
+L 266.275862 -79.596 
+L 275.896552 -79.596 
+L 285.517241 -79.596 
+L 295.137931 -79.596 
+L 304.758621 -79.596 
+L 314.37931 -79.596 
+L 324 -79.596 
+L 324 -79.596 
+L 324 -79.596 
+L 314.37931 -79.595999 
+L 304.758621 -79.595986 
+L 295.137931 -79.595886 
+L 285.517241 -79.595259 
+L 275.896552 -79.592039 
+L 266.275862 -79.578631 
+L 256.655172 -79.533471 
+L 247.034483 -79.410965 
+L 237.413793 -79.144853 
+L 227.793103 -78.684963 
+L 218.172414 -78.054768 
+L 208.551724 -77.359114 
+L 198.931034 -76.686459 
+L 189.310345 -75.990501 
+L 179.689655 -75.125487 
+L 170.068966 -74.040617 
+L 160.448276 -72.898115 
+L 150.827586 -71.959597 
+L 141.206897 -71.401239 
+L 131.586207 -71.28 
+L 121.965517 -71.613844 
+L 112.344828 -72.398644 
+L 102.724138 -73.538101 
+L 93.103448 -74.818636 
+L 83.482759 -76.00326 
+L 73.862069 -76.961788 
+L 64.241379 -77.705501 
+L 54.62069 -78.304443 
+L 45 -78.793552 
+z
+"/>
+    </defs>
+    <g clip-path="url(#p98abf91981)">
+     <use xlink:href="#m233f78ac35" x="0" y="144" style="fill: #fe8f06; fill-opacity: 0.5"/>
+    </g>
+   </g>
+   <g id="PolyCollection_2">
+    <defs>
+     <path id="mbeb98312c8" d="M 45 -63.281332 
+L 45 -62.964 
+L 54.62069 -62.964 
+L 64.241379 -62.964 
+L 73.862069 -62.964 
+L 83.482759 -62.964 
+L 93.103448 -62.964 
+L 102.724138 -62.964 
+L 112.344828 -62.964 
+L 121.965517 -62.964 
+L 131.586207 -62.964 
+L 141.206897 -62.964 
+L 150.827586 -62.964 
+L 160.448276 -62.964 
+L 170.068966 -62.964 
+L 179.689655 -62.964 
+L 189.310345 -62.964 
+L 198.931034 -62.964 
+L 208.551724 -62.964 
+L 218.172414 -62.964 
+L 227.793103 -62.964 
+L 237.413793 -62.964 
+L 247.034483 -62.964 
+L 256.655172 -62.964 
+L 266.275862 -62.964 
+L 275.896552 -62.964 
+L 285.517241 -62.964 
+L 295.137931 -62.964 
+L 304.758621 -62.964 
+L 314.37931 -62.964 
+L 324 -62.964 
+L 324 -62.999262 
+L 324 -62.999262 
+L 314.37931 -63.053236 
+L 304.758621 -63.165958 
+L 295.137931 -63.375251 
+L 285.517241 -63.7235 
+L 275.896552 -64.248358 
+L 266.275862 -64.973489 
+L 256.655172 -65.900768 
+L 247.034483 -67.000765 
+L 237.413793 -68.199977 
+L 227.793103 -69.374289 
+L 218.172414 -70.365741 
+L 208.551724 -71.028011 
+L 198.931034 -71.28 
+L 189.310345 -71.132931 
+L 179.689655 -70.672317 
+L 170.068966 -70.009377 
+L 160.448276 -69.237067 
+L 150.827586 -68.417011 
+L 141.206897 -67.595176 
+L 131.586207 -66.821062 
+L 121.965517 -66.146451 
+L 112.344828 -65.602772 
+L 102.724138 -65.179632 
+L 93.103448 -64.82882 
+L 83.482759 -64.495486 
+L 73.862069 -64.152841 
+L 64.241379 -63.813618 
+L 54.62069 -63.513051 
+L 45 -63.281332 
+z
+"/>
+    </defs>
+    <g clip-path="url(#p98abf91981)">
+     <use xlink:href="#mbeb98312c8" x="0" y="144" style="fill: #e30291; fill-opacity: 0.5"/>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path d="M 35.0433 81.036 
+L 35.0433 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 45.393141 81.036 
+L 45.393141 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_3">
+    <path d="M 55.742981 81.036 
+L 55.742981 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_4">
+    <path d="M 66.092822 81.036 
+L 66.092822 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_5">
+    <path d="M 76.442663 81.036 
+L 76.442663 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_6">
+    <path d="M 86.792504 81.036 
+L 86.792504 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_7">
+    <path d="M 97.142345 81.036 
+L 97.142345 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_8">
+    <path d="M 107.492186 81.036 
+L 107.492186 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_9">
+    <path d="M 117.842026 81.036 
+L 117.842026 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_10">
+    <path d="M 128.191867 81.036 
+L 128.191867 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_11">
+    <path d="M 138.541708 81.036 
+L 138.541708 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_12">
+    <path d="M 148.891549 81.036 
+L 148.891549 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_13">
+    <path d="M 159.24139 81.036 
+L 159.24139 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_14">
+    <path d="M 169.59123 81.036 
+L 169.59123 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_15">
+    <path d="M 179.941071 81.036 
+L 179.941071 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_16">
+    <path d="M 190.290912 81.036 
+L 190.290912 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_17">
+    <path d="M 200.640753 81.036 
+L 200.640753 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_18">
+    <path d="M 210.990594 81.036 
+L 210.990594 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_19">
+    <path d="M 221.340435 81.036 
+L 221.340435 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_20">
+    <path d="M 231.690275 81.036 
+L 231.690275 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_21">
+    <path d="M 242.040116 81.036 
+L 242.040116 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_22">
+    <path d="M 252.389957 81.036 
+L 252.389957 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_23">
+    <path d="M 262.739798 81.036 
+L 262.739798 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_24">
+    <path d="M 273.089639 81.036 
+L 273.089639 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_25">
+    <path d="M 283.43948 81.036 
+L 283.43948 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_26">
+    <path d="M 293.78932 81.036 
+L 293.78932 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_27">
+    <path d="M 304.139161 81.036 
+L 304.139161 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_28">
+    <path d="M 314.489002 81.036 
+L 314.489002 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_29">
+    <path d="M 324.838843 81.036 
+L 324.838843 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 0.5"/>
+   </g>
+   <g id="LineCollection_30">
+    <path d="M 179.941071 81.036 
+L 179.941071 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 2"/>
+   </g>
+   <g id="LineCollection_31">
+    <path d="M 76.442663 81.036 
+L 76.442663 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 2"/>
+   </g>
+   <g id="LineCollection_32">
+    <path d="M 283.43948 81.036 
+L 283.43948 64.404 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #000000; stroke-width: 2"/>
+   </g>
+   <g id="LineCollection_33">
+    <path d="M 138.642541 64.404 
+L 138.642541 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_34">
+    <path d="M 201.931198 64.404 
+L 201.931198 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_35">
+    <path d="M 226.334875 81.036 
+L 226.334875 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_36">
+    <path d="M 125.099841 64.404 
+L 125.099841 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_37">
+    <path d="M 156.744169 64.404 
+L 156.744169 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_38">
+    <path d="M 181.147847 81.036 
+L 181.147847 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_39">
+    <path d="M 212.792175 81.036 
+L 212.792175 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_40">
+    <path d="M 65.699682 64.404 
+L 65.699682 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_41">
+    <path d="M 153.392016 81.036 
+L 153.392016 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_42">
+    <path d="M 90.103359 81.036 
+L 90.103359 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_43">
+    <path d="M 116.20546 64.404 
+L 116.20546 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_44">
+    <path d="M 158.397898 64.404 
+L 158.397898 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_45">
+    <path d="M 203.897795 81.036 
+L 203.897795 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_46">
+    <path d="M 182.801576 81.036 
+L 182.801576 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_47">
+    <path d="M 92.248737 64.404 
+L 92.248737 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_48">
+    <path d="M 155.537394 64.404 
+L 155.537394 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_49">
+    <path d="M 107.373653 64.404 
+L 107.373653 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_50">
+    <path d="M 131.777331 81.036 
+L 131.777331 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_51">
+    <path d="M 136.1396 64.404 
+L 136.1396 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_52">
+    <path d="M 158.219117 81.036 
+L 158.219117 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_53">
+    <path d="M 137.838024 64.404 
+L 137.838024 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #800080; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_54">
+    <path d="M 225.530358 81.036 
+L 225.530358 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #50c5db; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_55">
+    <path d="M 162.241701 81.036 
+L 162.241701 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #50c5db; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_56">
+    <path d="M 108.607246 64.404 
+L 108.607246 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_57">
+    <path d="M 127.349806 64.404 
+L 127.349806 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_58">
+    <path d="M 196.29958 81.036 
+L 196.29958 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_59">
+    <path d="M 215.042141 81.036 
+L 215.042141 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_60">
+    <path d="M 163.31439 64.404 
+L 163.31439 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_61">
+    <path d="M 251.006724 81.036 
+L 251.006724 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #e30291; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_62">
+    <path d="M 303.300318 81.036 
+L 303.300318 92.124 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #50c5db; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_63">
+    <path d="M 215.607984 64.404 
+L 215.607984 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #800080; stroke-width: 1.5"/>
+   </g>
+   <g id="LineCollection_64">
+    <path d="M 196.388971 64.404 
+L 196.388971 53.316 
+" clip-path="url(#p98abf91981)" style="fill: none; stroke: #fe8f06; stroke-width: 1.5"/>
+   </g>
+   <g id="text_1">
+    <!-- $\mathrm{CO_2 + H_2 \longrightarrow CO + H_2O_{(l)}}$ -->
+    <g transform="translate(140.112541 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 27.745312 37.51582 41.705273 47.596875 53.793164 61.198535" y="-0.546875">CO+H⟶CO+HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 23.740137 58.362305 65.978613 67.617187 68.784082" y="0.4375">222(l)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- $\mathrm{CO_2 + H_2 \longrightarrow CO + H_2O_{(g)}}$ -->
+    <g transform="translate(203.251198 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 27.745312 37.51582 41.705273 47.596875 53.793164 61.198535" y="-0.546875">CO+H⟶CO+HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 23.740137 58.362305 65.978613 67.617187 70.283203" y="0.4375">222(g)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- $\mathrm{CO_2 \longrightarrow CO + 1/2 O_2}$ -->
+    <g transform="translate(227.902375 150.996) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 22.745215 26.934668 32.82627 39.022559 42.839941 44.611426 48.428809" y="-0.546875">CO⟶CO+1/2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 53.208887" y="0.4375">22</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- $\mathrm{CO_2 + 4 H_2 \longrightarrow CH_4 + 2 H_2O_{(l)}}$ -->
+    <g transform="translate(126.569841 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 22.988379 31.562695 41.333203 45.522656 54.096973 60.293262 64.110645 71.516016" y="-0.546875">CO+4H⟶CH+2HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 27.55752 50.091797 68.679785 76.296094 77.934668 79.101562" y="0.4375">2242(l)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- $\mathrm{CO_2 + 4  H_2 \longrightarrow CH_4 + 2 H_2O_{(g)}}$ -->
+    <g transform="translate(158.064169 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 22.988379 31.562695 41.333203 45.522656 54.096973 60.293262 64.110645 71.516016" y="-0.546875">CO+4H⟶CH+2HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 27.55752 50.091797 68.679785 76.296094 77.934668 80.600684" y="0.4375">2242(g)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- $\mathrm{CO_2 + 2 H_2O_{(g)} \longrightarrow CH_4 + 2 O_2}$ -->
+    <g transform="translate(182.467847 177.516) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 22.988379 30.39375 42.45 52.220508 56.409961 64.984277 71.180566 74.997949" y="-0.546875">CO+2HO⟶CH+2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 27.55752 35.173828 36.812402 39.478418 60.979102 79.778027" y="0.4375">22(g)42</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- $\mathrm{CO_2 + 2 H_2O_{(l)} \longrightarrow CH_4 + 2 O_2}$ -->
+    <g transform="translate(214.262175 176.016) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 22.988379 30.39375 40.950879 50.721387 54.91084 63.485156 69.681445 73.498828" y="-0.546875">CO+2HO⟶CH+2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 27.55752 35.173828 36.812402 37.979297 59.47998 78.278906" y="0.4375">22(l)42</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_8">
+    <!-- $\mathrm{CO_2 +  H_2 \longrightarrow HCOOH}$ -->
+    <g transform="translate(67.267182 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 27.745312 37.51582 42.027539 46.216992 50.939648 55.662305" y="-0.546875">CO+H⟶HCOOH</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 23.740137" y="0.4375">22</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- $\mathrm{CO_2+ H_2O_{(l)} \longrightarrow HCOOH + 1/2 O_2}$ -->
+    <g transform="translate(154.862016 188.916) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 26.576367 37.133496 46.904004 51.415723 55.605176 60.327832 65.050488 70.731152 76.927441 80.744824 82.516309 86.333691" y="-0.546875">CO+HO⟶HCOOH+1/2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 23.740137 31.356445 32.99502 34.161914 91.11377" y="0.4375">22(l)2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_10">
+    <!-- $\mathrm{CO_2+ H_2O_{(g)} \longrightarrow HCOOH + 1/2 O_2}$ -->
+    <g transform="translate(91.423359 190.416) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 26.576367 38.632617 48.403125 52.914844 57.104297 61.826953 66.549609 72.230273 78.426562 82.243945 84.01543 87.832812" y="-0.546875">CO+HO⟶HCOOH+1/2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 23.740137 31.356445 32.99502 35.661035 92.612891" y="0.4375">22(g)2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- $\mathrm{2 CO_2 + 6 H_2 \longrightarrow C_2H_4 + 4 H_2O_{(l)}}$ -->
+    <g transform="translate(117.67546 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.817383 8.006836 16.79209 22.988379 26.805762 35.380078 45.150586 52.233691 60.808008 67.004297 70.82168 78.227051" y="-0.546875">2CO+6H⟶CH+4HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="12.786914 31.374902 49.397461 56.802832 75.39082 83.007129 84.645703 85.812598" y="0.4375">22242(l)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_12">
+    <!-- $\mathrm{2 CO_2 + 6 H_2 \longrightarrow C_2H_4 + 4 H_2O_{(g)}}$ -->
+    <g transform="translate(159.717898 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.817383 8.006836 16.79209 22.988379 26.805762 35.380078 45.150586 52.233691 60.808008 67.004297 70.82168 78.227051" y="-0.546875">2CO+6H⟶CH+4HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="12.786914 31.374902 49.397461 56.802832 75.39082 83.007129 84.645703 87.311719" y="0.4375">22242(g)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- $\mathrm{2 CO_2 + 2 H_2O_{(l)} \longrightarrow C_2H_4 + 3 O_2}$ -->
+    <g transform="translate(205.367795 182.736) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.817383 8.006836 16.79209 22.988379 26.805762 34.211133 44.768262 54.53877 61.621875 70.196191 76.39248 80.209863" y="-0.546875">2CO+2HO⟶CH+3O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="12.786914 31.374902 38.991211 40.629785 41.79668 58.785645 66.191016 84.989941" y="0.4375">22(l)242</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- $\mathrm{2 CO_2 + 2 H_2O_{(g)} \longrightarrow C_2H_4 + 3 O_2}$ -->
+    <g transform="translate(184.121576 184.236) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.817383 8.006836 16.79209 22.988379 26.805762 34.211133 46.267383 56.037891 63.120996 71.695312 77.891602 81.708984" y="-0.546875">2CO+2HO⟶CH+3O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="12.786914 31.374902 38.991211 40.629785 43.295801 60.284766 67.690137 86.489063" y="0.4375">22(g)242</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- $\mathrm{H_2 + 1/2 O_2 \longrightarrow H_2O_{(l)}}$ -->
+    <g transform="translate(93.718737 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 8.574316 14.770605 18.587988 20.359473 24.176855 32.962109 42.732617 50.137988" y="-0.546875">H+1/2O⟶HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="4.569141 28.956934 47.301758 54.918066 56.556641 57.723535" y="0.4375">222(l)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- $\mathrm{H_2 + 1/2 O_2 \longrightarrow H_2O_{(g)}}$ -->
+    <g transform="translate(156.857394 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 8.574316 14.770605 18.587988 20.359473 24.176855 32.962109 42.732617 50.137988" y="-0.546875">H+1/2O⟶HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="4.569141 28.956934 47.301758 54.918066 56.556641 59.222656" y="0.4375">222(g)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- $\mathrm{H_2 + benzaldehyde \longrightarrow benzyl alcohol}$ -->
+    <g transform="translate(109.023653 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 8.574316 14.770605 18.579199 22.270605 26.07334 29.222754 32.899512 34.566504 38.375098 42.066504 45.869238 49.42002 53.228613 58.088965 67.859473 71.668066 75.359473 79.162207 82.311621 85.862402 87.529395 91.206152 92.873145 96.171973 99.842871 103.645605 107.316504" y="-0.4375">H+benzaldehyde⟶benzylalcohol</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="4.569141" y="0.546875">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- $\mathrm{H_2O + benzaldehyde \longrightarrow benzyl alcohol + 1/2 O_2}$ -->
+    <g transform="translate(133.427331 233.076) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 7.405371 13.296973 19.493262 23.301855 26.993262 30.795996 33.94541 37.622168 39.28916 43.097754 46.78916 50.591895 54.142676 57.95127 62.811621 72.582129 76.390723 80.082129 83.884863 87.034277 90.585059 92.252051 95.928809 97.595801 100.894629 104.565527 108.368262 112.03916 114.875098 121.071387 124.88877 126.660254 130.477637" y="-0.4375">HO+benzaldehyde⟶benzylalcohol+1/2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="4.569141 135.257715" y="0.546875">22</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_19">
+    <!-- $\mathrm{CO_2 + 3 H_2 \longrightarrow C_2H_5OH_{(l)} + H_2O_{(l)}}$ -->
+    <g transform="translate(137.6096 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 22.988379 31.562695 41.333203 48.416309 55.82168 60.544336 70.890527 77.086816 84.492188" y="-0.546875">CO+3H⟶CHOH+HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 27.55752 45.580078 52.985449 65.113477 66.752051 67.918945 81.655957 89.272266 90.91084 92.077734" y="0.4375">2225(l)2(l)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- $\mathrm{CO_2 + 2 H_2O \longrightarrow C_2H_5OH_{(l)} + 3/2 O_2}$ -->
+    <g transform="translate(159.689117 193.776) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 4.189453 12.974707 19.170996 22.988379 30.39375 36.285352 46.055859 53.138965 60.544336 65.266992 75.613184 81.809473 85.626855 87.39834 91.215723" y="-0.546875">CO+2HO⟶CHOH+3/2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="8.969531 27.55752 50.302734 57.708105 69.836133 71.474707 72.641602 95.995801" y="0.4375">2225(l)2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- $\mathrm{C_2H_4 + 1/2 O_2 \longrightarrow C_2H_4O}$ -->
+    <g transform="translate(139.405524 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 7.083105 15.657422 21.853711 25.671094 27.442578 31.259961 40.045215 49.815723 56.898828 64.304199" y="-0.546875">CH+1/2O⟶CHO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="4.246875 11.652246 36.040039 54.062598 61.467969" y="0.4375">24224</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_22">
+    <!-- $\mathrm{C_2H_4 + H_2O_{(l)} \longrightarrow C_2H_4O + H_2}$ -->
+    <g transform="translate(227.000358 178.476) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 7.083105 15.657422 21.853711 29.259082 39.816211 49.586719 56.669824 64.075195 69.966797 76.163086" y="-0.546875">CH+HO⟶CHO+H</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="4.246875 11.652246 26.422852 34.03916 35.677734 36.844629 53.833594 61.238965 80.732227" y="0.4375">242(l)242</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_23">
+    <!-- $\mathrm{C_2H_4 + H_2O_{(g)} \longrightarrow C_2H_4O + H_2}$ -->
+    <g transform="translate(163.561701 179.976) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 7.083105 15.657422 21.853711 29.259082 41.315332 51.08584 58.168945 65.574316 71.465918 77.662207" y="-0.546875">CH+HO⟶CHO+H</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="4.246875 11.652246 26.422852 34.03916 35.677734 38.34375 55.332715 62.738086 82.231348" y="0.4375">242(g)242</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_24">
+    <!-- $\mathrm{furfural + H_2 \longrightarrow furfuryl alcohol}$ -->
+    <g transform="translate(110.257246 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 2.112305 5.915039 8.381836 10.494141 14.296875 16.763672 20.44043 23.276367 29.472656 38.046973 47.81748 49.929785 53.73252 56.199316 58.311621 62.114355 64.581152 68.131934 69.798926 73.475684 75.142676 78.441504 82.112402 85.915137 89.586035" y="-0.4375">furfural+H⟶furfurylalcohol</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="34.041797" y="0.546875">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_25">
+    <!-- $\mathrm{furfural + 2 H_2 \longrightarrow 2-methylfuran + H_2O}$ -->
+    <g transform="translate(128.999806 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 2.112305 5.915039 8.381836 10.494141 14.296875 16.763672 20.44043 23.276367 29.472656 33.290039 41.864355 51.634863 56.621191 62.81748 68.662207 72.353613 74.706152 78.508887 82.059668 83.72666 85.838965 89.641699 92.108496 95.785254 100.756934 106.953223 114.358594" y="-0.4375">furfural+2H⟶2−methylfuran+HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="37.85918 111.522363" y="0.546875">22</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_26">
+    <!-- $\mathrm{furfural + H_2O \longrightarrow furfuryl alcohol+1/2 O_2}$ -->
+    <g transform="translate(197.94958 215.316) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 2.112305 5.915039 8.381836 10.494141 14.296875 16.763672 20.44043 23.276367 29.472656 36.878027 42.769629 52.540137 54.652441 58.455176 60.921973 63.034277 66.837012 69.303809 72.85459 74.521582 78.19834 79.865332 83.16416 86.835059 90.637793 94.308691 97.144629 103.340918 107.158301 108.929785 112.747168" y="-0.4375">furfural+HO⟶furfurylalcohol+1/2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="34.041797 117.527246" y="0.546875">22</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_27">
+    <!-- $\mathrm{furfural +H_2O \longrightarrow 2-methylfuran + O_2}$ -->
+    <g transform="translate(216.692141 210.396) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 2.112305 5.915039 8.381836 10.494141 14.296875 16.763672 20.44043 23.276367 29.472656 36.878027 42.769629 52.540137 57.526465 63.722754 69.56748 73.258887 75.611426 79.41416 82.964941 84.631934 86.744238 90.546973 93.01377 96.690527 101.662207 107.858496" y="-0.4375">furfural+HO⟶2−methylfuran+O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="34.041797 112.638574" y="0.546875">22</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_28">
+    <!-- $\mathrm{decane + H_2 \longrightarrow hexane + butane}$ -->
+    <g transform="translate(164.91189 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.808594 7.5 10.798828 14.475586 18.27832 23.138672 29.334961 37.909277 47.679785 51.48252 55.173926 58.724707 62.401465 66.204199 71.064551 77.26084 81.069434 84.872168 87.224707 90.901465 94.704199" y="-0.4375">decane+H⟶hexane+butane</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="33.904102" y="0.546875">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_29">
+    <!-- $\mathrm{decane + H_2O \longrightarrow hexane + butane + 1/2 O_2}$ -->
+    <g transform="translate(252.604224 222.456) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.808594 7.5 10.798828 14.475586 18.27832 23.138672 29.334961 36.740332 42.631934 52.402441 56.205176 59.896582 63.447363 67.124121 70.926855 75.787207 81.983496 85.79209 89.594824 91.947363 95.624121 99.426855 104.287207 110.483496 114.300879 116.072363 119.889746" y="-0.4375">decane+HO⟶hexane+butane+1/2O</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="33.904102 124.669824" y="0.546875">22</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_30">
+    <!-- $\mathrm{decane \longrightarrow 2 pentene + H_2}$ -->
+    <g transform="translate(304.950318 171.276) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.808594 7.5 10.798828 14.475586 18.27832 23.138672 32.90918 36.726562 40.535156 44.226562 48.029297 50.381836 54.073242 57.875977 62.736328 68.932617" y="-0.4375">decane⟶2pentene+H</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="73.501758" y="0.546875">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_31">
+    <!-- $\mathrm{decane + 1/2 O_2 \longrightarrow 2 pentene + H_2O}$ -->
+    <g transform="translate(217.257984 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.808594 7.5 10.798828 14.475586 18.27832 23.138672 29.334961 33.152344 34.923828 38.741211 47.526465 57.296973 61.114355 64.922949 68.614355 72.41709 74.769629 78.461035 82.26377 87.124121 93.32041 100.725781" y="-0.4375">decane+1/2O⟶2pentene+HO</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="43.521289 97.889551" y="0.546875">22</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_32">
+    <!-- $\mathrm{decane + 9 H_2 \longrightarrow 10 CH_4}$ -->
+    <g transform="translate(197.986471 50.544) rotate(-90)">
+     <text>
+      <tspan style="font: 6px 'DejaVu Sans'" x="0 3.808594 7.5 10.798828 14.475586 18.27832 23.138672 29.334961 33.152344 41.72666 51.497168 55.314551 59.131934 63.321387" y="-0.4375">decane+9H⟶10CH</tspan>
+      <tspan style="font: 4.2px 'DejaVu Sans'" x="37.721484 67.890527" y="0.546875">24</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p98abf91981">
+   <rect x="45" y="17.28" width="279" height="110.88"/>
+  </clipPath>
+ </defs>
+</svg>
