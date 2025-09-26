@@ -1,0 +1,25 @@
+### FIGURE
+figure.facecolor: white
+
+
+### LINES
+lines.linewidth: 1.5
+
+### PATCHES
+patch.facecolor: 0072B2
+
+
+### TICKS
+xtick.direction: out
+ytick.direction: out
+
+
+
+### AXES
+axes.grid: False
+axes.facecolor: white
+axes.linewidth: 1.0
+
+axes.spines.top: True
+axes.spines.right: True
+axes.prop_cycle: cycler('color', ["#2c457d","#50c5db","#fe8f06","#4b8163","#e30291","#c6c0fe","#48006a","#e60027","#c0e087"])
